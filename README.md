@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Tehmina Yasmeen 👋
 
-<!--
-**tehmina-leads/tehmina-leads** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Lead Generation Specialist | Virtual Assistant**
 
-Here are some ideas to get you started:
+Detail-oriented Lead Generation Specialist with hands-on experience in LinkedIn Sales Navigator, data scraping, and B2B prospecting for global clients. I build accurate, high-converting contact lists and deliver clean, verified data fast.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **I'm currently working on:** B2B lead generation & data entry projects for global clients
+- 📈 **Core skills:** Lead Generation, LinkedIn Sales Navigator, Data Entry, Internet Research, List Building, Data Collection
+- 💼 **Ask me about:** Building verified B2B contact lists, LinkedIn prospecting, and lead qualification
+- 📬 **How to reach me:** Available on Upwork — https://www.upwork.com/freelancers/~01262dfe80a8c5b99d?viewMode=1
+- ⚡ **Fun fact:** I've delivered 2,000+ verified B2B leads across multiple industries with 100% accuracy
+
+---
+🌐 Based in Pakistan | 🗣️ English, German, French
